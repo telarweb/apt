@@ -1,0 +1,59 @@
+Package: telaweb
+Version: 0.0.13-1
+Architecture: arm64
+Maintainer: TelaWeb Project <noreply@github.com>
+Depends: python3 (>= 3.11), python3-venv, bluetooth, bluez, bluez-tools, python3-dbus, dbus, network-manager, iw, systemd (>= 232), avahi-daemon
+Recommends: pi-hole
+Filename: pool/main/t/telaweb/telaweb_0.0.13-1_arm64.deb
+Size: 13196
+MD5sum: 24c7c9f6ea0bee00ae242de2c696a166
+SHA1: 3d062e366455f6c52f27667061dbd7dd3c2f714c
+SHA256: f87143467a6c11ee60a33da3075c0acb8a8215d716c0ce0a8716a98ee5380c5d
+Section: net
+Priority: optional
+Homepage: https://github.com/yourusername/telaweb
+Description: Raspberry Pi WiFi provisioning via BLE
+ TelaWeb provides WiFi provisioning for headless Raspberry Pi devices
+ via Bluetooth Low Energy (BLE). It includes a BLE GATT server for
+ wireless configuration and a factory reset tool for recovery.
+ .
+ Components:
+  - BLE WiFi provisioning server (ble_wifi_config.py)
+  - Factory reset utility (pi-factory-reset)
+  - Systemd service integration
+ .
+ For the web dashboard, install telaweb-pihole-companion.
+ .
+ Perfect for headless Raspberry Pi Zero 2 W setups where keyboard
+ and monitor access is not available.
+
+Package: telaweb-pihole-companion
+Version: 0.0.13-1
+Architecture: all
+Maintainer: TelaWeb Project <noreply@github.com>
+Depends: telaweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
+Recommends: pi-hole
+Filename: pool/main/t/telaweb/telaweb-pihole-companion_0.0.13-1_all.deb
+Size: 24652
+MD5sum: 73edc51486793e558137f0a728069951
+SHA1: f422eb534c0c7cb08485570244523020294b888e
+SHA256: 19ed932cfd684f835e7fa6711f2cc5a0c42d3d1b11a2968e4b9d8248c3ed0f4e
+Section: net
+Priority: optional
+Homepage: https://github.com/yourusername/telaweb
+Description: Pi-hole companion web interface for TelaWeb
+ A modern web interface for managing Pi-hole DNS ad-blocker with
+ advanced features including scheduling, domain management, and
+ real-time statistics visualization.
+ .
+ Features:
+  - Dashboard with real-time Pi-hole statistics
+  - 24-hour trend visualization using Chart.js
+  - Blocklist and allowlist management
+  - Domain allow/deny rules
+  - Advanced scheduling system with timezone support
+  - Dark theme UI optimized for 24/7 monitoring
+  - Supports both Pi-hole v5 and v6 APIs
+ .
+ Runs on port 8088 alongside the main TelaWeb dashboard.
+

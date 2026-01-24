@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: TelaWeb
+Label: TelaWeb
+Suite: trixie
+Codename: trixie
+Architectures: arm64 all
+Components: main
+Description: TelaWeb APT Repository - Raspberry Pi WiFi Provisioning via BLE
+Date: Sat, 24 Jan 2026 16:59:05 +0000
+MD5Sum:
+ 37e92027b455e7f0cb9ed235e9b9524c 1189 main/binary-arm64/Packages.gz
+ 387d117f55954d4441d8d1c6a52f630f 2373 main/binary-arm64/Packages
+ f132678ff433f0c85126a156bde121f9 728 main/binary-all/Packages.gz
+ 9f8ec5ee656db3ab41fead8cd4846574 1224 main/binary-all/Packages
+SHA256:
+ 7b8dbfea4e959795019c5bca16a1592ea48ce4b58a1c7e46365725b4b1c994e1 1189 main/binary-arm64/Packages.gz
+ d201419cb0aa4582b84e0752ba7dfa100cdbecf0ce0f2c4fe085ed60041737b5 2373 main/binary-arm64/Packages
+ 0ae25ff547ff3296ddb0e98b09343e689670855ccf67ffe653214b440142f92e 728 main/binary-all/Packages.gz
+ 00696fd60ebb73f9b2cf3f16803375edcae1478d255c46220627295c1b1a57cf 1224 main/binary-all/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEETlZKsEgRxRnBg50ZbGIXB/P/XHUFAml0+r4WHHRlbGFyd2Vi
+ZG5zQGdtYWlsLmNvbQAKCRBsYhcH8/9cdedDEADFAAkXvrKap7XrO9D0vJtiIlXA
+LgZ7piMsq5Oz7Zvv6SPnDaSBXRmF4Z1xjd6YzqFxTu9n3PMD2IOWQk9X+KlW0GVn
+ehfxgyWCdcdnSNzG8Jpe/feUWL4Iqwlh/X/db4zM1UwsJaFpWg55miTCnoDFtoU5
+PfLTm4Qpzye00dKUdAJFDpdML7FHuRTMGCLZXIznAK7usOaWYDm7gMPGGhpQ1oTu
+1lHs+en+yJ6YY2nh34aOe+cseq4cG+qEzX7+X6oYPGKY5aryMlnPvi1YrG4RIutP
+ktTK/jVQ3H2v0QW8kFa4SqI1c4zGRNIXa0/hGqIUWZC6Ma/rD3oTfE2nKBq8m6AJ
+QocCwo/qs0crQ/EyTCckRd0+wVe3IDyD1VPfbQfViYkUHtWdACDZS/2YJKFJzdX3
+PQXLWu/dTx3l77jQx4aqGj3ZSuQTkEUjAEjSqGu/RDQ7a8GQ76Q19eKwq/ne/x1F
+6QgDGcLdbfpQLBJR08I2GOsyF+lcaOCJu57/sbGdj1q3rzqj8GStiU5kI+HelOU+
+tTelj0UmdAcvnjIuUPzwUorhp7SfMbJqvP4fmwrvd7nlckRivNbhv6fk6u+WThod
+loI6NXuB+38DhIhsl9LfoMA13mPrp6jIHfIMBAt4irpA7ZSfBw+MrXuzZTYfTGSz
+YlnUxk5JaTfUR74NpA==
+=S2NW
+-----END PGP SIGNATURE-----

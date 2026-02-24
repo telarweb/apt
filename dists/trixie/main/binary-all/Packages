@@ -1,14 +1,14 @@
 Package: telaweb-pihole-companion
-Version: 0.0.14-1
+Version: 0.0.15-1
 Architecture: all
 Maintainer: TelaWeb Project <noreply@github.com>
 Depends: telaweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
 Recommends: pi-hole
-Filename: pool/main/t/telaweb/telaweb-pihole-companion_0.0.14-1_all.deb
-Size: 24780
-MD5sum: 61d8c7b31f0ee7899f2623b9b7ff38ea
-SHA1: e20a786ff1d84b879514ff1e3051efc715ed830b
-SHA256: 1745632d44827f51c050d33fe587d3a51576a4f7535d7e392cb091f65e11b573
+Filename: pool/main/t/telaweb/telaweb-pihole-companion_0.0.15-1_all.deb
+Size: 24772
+MD5sum: 873426d4ef0a8931fd78ac9cc0fe2ea4
+SHA1: 46f3114faf1e8fa29bee2e298e9b189160a7634a
+SHA256: d0fadf7941f1817ae3ba7196e791bc00dfdd6ffd98c16dc77d64892614522268
 Section: net
 Priority: optional
 Homepage: https://github.com/yourusername/telaweb

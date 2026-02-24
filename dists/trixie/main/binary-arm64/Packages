@@ -1,14 +1,14 @@
 Package: telaweb
-Version: 0.0.14-1
+Version: 0.0.15-1
 Architecture: arm64
 Maintainer: TelaWeb Project <noreply@github.com>
 Depends: python3 (>= 3.11), python3-venv, bluetooth, bluez, bluez-tools, python3-dbus, dbus, network-manager, iw, systemd (>= 232), avahi-daemon
 Recommends: pi-hole
-Filename: pool/main/t/telaweb/telaweb_0.0.14-1_arm64.deb
-Size: 16700
-MD5sum: 43004fc5d888434267e588656aae464e
-SHA1: 858bcbbd0fbb628a677ef767cc95b85d944d7952
-SHA256: 0939288689ef158a8aa5c7f99e53625b65b7a8b9d5d05c127c718bff45457c9c
+Filename: pool/main/t/telaweb/telaweb_0.0.15-1_arm64.deb
+Size: 17348
+MD5sum: b1021f2afe537ee77e49ec3ad93e11a1
+SHA1: 3b7c0db1cf6f408a4b8c88050e62bea05dceb195
+SHA256: 441a612490c851a2f869a3a28926e272c5549193473a65f7674643a819b6d077
 Section: net
 Priority: optional
 Homepage: https://github.com/yourusername/telaweb
@@ -28,16 +28,16 @@ Description: Raspberry Pi WiFi provisioning via BLE
  and monitor access is not available.
 
 Package: telaweb-pihole-companion
-Version: 0.0.14-1
+Version: 0.0.15-1
 Architecture: all
 Maintainer: TelaWeb Project <noreply@github.com>
 Depends: telaweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
 Recommends: pi-hole
-Filename: pool/main/t/telaweb/telaweb-pihole-companion_0.0.14-1_all.deb
-Size: 24780
-MD5sum: 61d8c7b31f0ee7899f2623b9b7ff38ea
-SHA1: e20a786ff1d84b879514ff1e3051efc715ed830b
-SHA256: 1745632d44827f51c050d33fe587d3a51576a4f7535d7e392cb091f65e11b573
+Filename: pool/main/t/telaweb/telaweb-pihole-companion_0.0.15-1_all.deb
+Size: 24772
+MD5sum: 873426d4ef0a8931fd78ac9cc0fe2ea4
+SHA1: 46f3114faf1e8fa29bee2e298e9b189160a7634a
+SHA256: d0fadf7941f1817ae3ba7196e791bc00dfdd6ffd98c16dc77d64892614522268
 Section: net
 Priority: optional
 Homepage: https://github.com/yourusername/telaweb

@@ -1,18 +1,18 @@
-Package: telaweb-pihole-companion
-Version: 0.0.19-1
+Package: telarweb-pihole-companion
+Version: 0.1.1-1
 Architecture: all
-Maintainer: TelaWeb Project <noreply@github.com>
-Depends: telaweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
+Maintainer: TelarWeb Project <noreply@github.com>
+Depends: telarweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
 Recommends: pi-hole
-Filename: pool/main/t/telaweb/telaweb-pihole-companion_0.0.19-1_all.deb
-Size: 24872
-MD5sum: 6c9ee498292621b2c68418d79eb469a6
-SHA1: 3d927dc967baa4fdb436b2c03890c05b26d2b0cf
-SHA256: da6af02bd2a223a3f35b2fa130a719fbe844a89db277397f23ef27676b266787
+Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.1-1_all.deb
+Size: 26796
+MD5sum: 43696516eddbfdd288d415246893f6b0
+SHA1: 63762f11336316cb644d78390833dca1e9f2b0a0
+SHA256: 0b67f85fa8160699279c97278a829c2692dab9bf43366ed3b890f3998ff760f1
 Section: net
 Priority: optional
-Homepage: https://github.com/yourusername/telaweb
-Description: Pi-hole companion web interface for TelaWeb
+Homepage: https://github.com/yourusername/telarweb
+Description: Pi-hole companion web interface for TelarWeb
  A modern web interface for managing Pi-hole DNS ad-blocker with
  advanced features including scheduling, domain management, and
  real-time statistics visualization.
@@ -26,5 +26,5 @@ Description: Pi-hole companion web interface for TelaWeb
   - Dark theme UI optimized for 24/7 monitoring
   - Supports both Pi-hole v5 and v6 APIs
  .
- Runs on port 8088 alongside the main TelaWeb dashboard.
+ Runs on port 8088 alongside the main TelarWeb dashboard.
 

@@ -1,14 +1,14 @@
 Package: telarweb-pihole-companion
-Version: 0.1.4-1
+Version: 0.1.5-1
 Architecture: all
 Maintainer: TelarWeb Project <noreply@github.com>
 Depends: telarweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
 Recommends: pi-hole
-Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.4-1_all.deb
-Size: 994212
-MD5sum: 8bd9d0b0e4a69360e8f4b30ffa650999
-SHA1: ae5076902472121d4ff5264c1ae3d13cac14ea54
-SHA256: 5eaab405ab22087a7649035984534a22db71c79892e9d475c675bf7d063f2a0a
+Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.5-1_all.deb
+Size: 1822128
+MD5sum: b268c12a0f651fa40c0e4c5a5e2b885d
+SHA1: 354f2677d34c5bb4fad1bd66708318503e2545cd
+SHA256: 1a62b88362bafa130f8014fa7c3aea41b4fc05487c4e9b12332fd4bab97e1d0d
 Section: net
 Priority: optional
 Homepage: https://github.com/yourusername/telarweb

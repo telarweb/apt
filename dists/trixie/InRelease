@@ -8,31 +8,31 @@ Codename: trixie
 Architectures: arm64 all
 Components: main
 Description: TelarWeb APT Repository - Raspberry Pi WiFi Provisioning via BLE
-Date: Sun, 07 Jun 2026 10:26:31 +0000
+Date: Tue, 09 Jun 2026 21:29:28 +0000
 MD5Sum:
- 138dc283de23e73b685ab3575b597c73 1183 main/binary-arm64/Packages.gz
- 538cfd7e2adafc8cc168bc6171001822 2386 main/binary-arm64/Packages
- cfde73ebab5e63c91175664d530a47d0 723 main/binary-all/Packages.gz
- a5f55b7f9150ce22abee143e16ddeebc 1232 main/binary-all/Packages
+ 516090079718fbf45b7e150ac601732a 1183 main/binary-arm64/Packages.gz
+ 78b1d461d9df26b5f229db91c9654c44 2386 main/binary-arm64/Packages
+ ce790ff10f805a5fdf69ef0ebc96b110 725 main/binary-all/Packages.gz
+ ff2abdcb9fc7d3c54b1025bd7bf71147 1232 main/binary-all/Packages
 SHA256:
- 7ea74bbd8c93b23a795068d30083cb3959419963cef2eb98afe0a4981d5b8e2e 1183 main/binary-arm64/Packages.gz
- 3dec21c25fcf3581e1e8f734e09fd4aa0ed13355973af207afb3d12eed137f10 2386 main/binary-arm64/Packages
- 6e363ff01949fbffbac37f54b85e0f4c347913bbd435b90adcf290762fb0b70d 723 main/binary-all/Packages.gz
- 7e581fdb127711ea04922403b8045e481dba6564b1181bc74aeefc30e99bc71e 1232 main/binary-all/Packages
+ 1eaf6928ec1bba57047b1bb2a6d02b2a06219df2997259a25e225e2882ce4a33 1183 main/binary-arm64/Packages.gz
+ 5bbcca007b68cddebce93f6c588f1f01e94f259fb7c33fdb58326127a12ed824 2386 main/binary-arm64/Packages
+ a27eeb2d2d406ae4a7f31936026f1c7313c852d3c51ada85422f2ce6295ef0a8 725 main/binary-all/Packages.gz
+ 6d20670e9eb238e28554f577145e7d39d7fcc19b787eaa17fead0e72c723170b 1232 main/binary-all/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iQJKBAEBCgA0FiEETlZKsEgRxRnBg50ZbGIXB/P/XHUFAmolR18WHHRlbGFyd2Vi
-ZG5zQGdtYWlsLmNvbQAKCRBsYhcH8/9cdcCpD/4l8Qf6h4fwofPCuY/0Eo36O7FR
-ozSkzgpY7/kclorDTqE7DY47UhzKRv0pYT/16gqhSAzRJLfXvkwu3i32dhABACD5
-VkYSeFE+M4MRWhjMoazD9cGeqfKxaBWtlV5CIi39hyMHvI0TBNA8KiemiamEnM7q
-+mf53nFuXRTfT9yg5X8YIQ7ovoL9OXgmKDxEc9LRjjDkQ+wpvds95yZsGdR5a30e
-gypZpGxjqYYnBiI3r05Qv09kBLBy6kgMW17pZBysisVgZvPWeBzOYkEJ7vmyHKRV
-6CitAhQ3xS9G0Fhv4Um2S/KE14BY+exS6mZl9E47BdJnSkVRprMW8i9WLLRFezF/
-xwYnB8xl5EevRbY5ULnEKno/fm/oFkScN0kpAS3Hf/HMkmP8rnulCrd1exz0nEd/
-FhzZjWQNBOpajH5oil/n5RXhUP49SsftJB3/f4Xd3YgwbA+klfyaBsbCbjTAYyGO
-M4OPMUY9pKXihQCKJ2onFHrQdR/+engmY+4binZJ9RMubac02Urv4O00O/7fvMEv
-VDQCqXg6xLy3EfuMqp/sRt7FARM2eNXb1y6yHXafiPWBn28QBx8Xfx7xxoFOyRaX
-HAYNVkYgDIIULTG49szbWdp23GBYsy+fn2jht3Z96L2FpBJ1AxTJKb8/KqaYwU1g
-yySZwczCiXPSOAa6Cw==
-=cuEN
+iQJKBAEBCgA0FiEETlZKsEgRxRnBg50ZbGIXB/P/XHUFAmoohcEWHHRlbGFyd2Vi
+ZG5zQGdtYWlsLmNvbQAKCRBsYhcH8/9cdfdnD/4tEqy4+iDxGMT78cCiNZT/zzL6
+Ze+/1rvcKhsOttHB9B7HB4CDmophCQ0nVH58sO46TEtQSpuHRIuqjzdAbnCO2kgf
+21kD3j8cdY5mI8OvSox6OLZNuUq4kD14m1nWjRY4jnMevlr31ijfeZzSASM8jclk
+n/0bSuK961wxvnLUMkaxGu850wNTnp2y/xPzxyHBYejatp/QtTIcGDwdfgua13S7
+kF2cLjR5NXtKV220lvrcj+boJPLRUhJMzsmjG6FAe35X62bVR6cjcC7Mbyp5ZXR3
+e/wPy0BFSq0xUbZbpz2GKjP9ZhRtbw2u77jD0wXESeSkjszA4e29CY9Dz48Dj8Ux
+F92iZv+EHJ1pOi/r14K1+QVoMQzqEynlMLcb6HGxruiyglrPdvfOFrDi4y4oxJMW
+yXf0WiJLQwozQ9mzIWU3vU0GTWeVmpJUhnnvqi1Iq4sqdmDeN1Hz99NFgz5Ld0gC
+oQRfhgSqpQLRf2byJHVQGYHLBQAHUNaWB7mRkjaCgiFSrBHZqpm6m+DaVONx6ZhR
+rVUhPYQ2utVdOAFhjn2kdQiNxCoBAkbBP5ApeNN5YPFawvl43XVTGKjxlqcIb2TO
+ToFqC13MW5zJylFiPrqC8n3K11EW5KJxDPiLPiJwdIvhmh3lWWlrRPQ0IxgMncEW
+Yg9FF4mz1Set+TVzug==
+=KROE
 -----END PGP SIGNATURE-----

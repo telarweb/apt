@@ -1,17 +1,17 @@
 Package: telarweb-pihole-companion
-Version: 0.1.7-1
+Version: 0.1.8-1
 Architecture: all
 Maintainer: TelarWeb Project <noreply@github.com>
-Depends: telarweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz
+Depends: telarweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz, python3-tzlocal
 Recommends: pi-hole
-Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.7-1_all.deb
-Size: 1822728
-MD5sum: 6d9b1a559135c48bf82e2d0a8e932419
-SHA1: 54d0b199702e038d32aacb3a9d218dfb184747c9
-SHA256: 146ebf125b87c38b1cda294a03d03879446b5b58d7cc6cd7734b0ad630b2757d
+Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.8-1_all.deb
+Size: 27816
+MD5sum: c25b31471d7846881c3d2bd4fddc6b4c
+SHA1: 12e9d4c760c9d68a28c7cc8ae04be17ae5796338
+SHA256: 480967fbba79980b46892194b82d012cb71a08e5204be0949fef0ff63f91df94
 Section: net
 Priority: optional
-Homepage: https://github.com/yourusername/telarweb
+Homepage: https://github.com/flodek/telaweb-apt
 Description: Pi-hole companion web interface for TelarWeb
  A modern web interface for managing Pi-hole DNS ad-blocker with
  advanced features including scheduling, domain management, and

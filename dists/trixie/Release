@@ -5,14 +5,14 @@ Codename: trixie
 Architectures: arm64 all
 Components: main
 Description: TelarWeb APT Repository - Raspberry Pi WiFi Provisioning via BLE
-Date: Tue, 09 Jun 2026 21:29:28 +0000
+Date: Fri, 12 Jun 2026 20:35:02 +0000
 MD5Sum:
- 516090079718fbf45b7e150ac601732a 1183 main/binary-arm64/Packages.gz
- 78b1d461d9df26b5f229db91c9654c44 2386 main/binary-arm64/Packages
- ce790ff10f805a5fdf69ef0ebc96b110 725 main/binary-all/Packages.gz
- ff2abdcb9fc7d3c54b1025bd7bf71147 1232 main/binary-all/Packages
+ a3268d12fdd1c415fd6809fc1c8074b1 1187 main/binary-arm64/Packages.gz
+ 5c1433c896847ffe491ed45236befc90 2386 main/binary-arm64/Packages
+ e572f48d2ff3cc6cbc247927cf3e1501 727 main/binary-all/Packages.gz
+ b1cc238a04a58a920b88ca5d4241939d 1232 main/binary-all/Packages
 SHA256:
- 1eaf6928ec1bba57047b1bb2a6d02b2a06219df2997259a25e225e2882ce4a33 1183 main/binary-arm64/Packages.gz
- 5bbcca007b68cddebce93f6c588f1f01e94f259fb7c33fdb58326127a12ed824 2386 main/binary-arm64/Packages
- a27eeb2d2d406ae4a7f31936026f1c7313c852d3c51ada85422f2ce6295ef0a8 725 main/binary-all/Packages.gz
- 6d20670e9eb238e28554f577145e7d39d7fcc19b787eaa17fead0e72c723170b 1232 main/binary-all/Packages
+ 06adf762fea90918e04d99893bc3cf242026c4000236c4893dceb449eb0fed11 1187 main/binary-arm64/Packages.gz
+ 1f2dfd0de7086bbbff82cccddac42982f290f51003df10545c70349890365fdc 2386 main/binary-arm64/Packages
+ 19d0ac9acb62eb5e39cfd4773f94ae4b7330dbd2a9df25928376d1bf3097cc29 727 main/binary-all/Packages.gz
+ 9c144f633434ae8cc3ed18f143b71e770a696ed9dc178a3909c0a6809da11304 1232 main/binary-all/Packages

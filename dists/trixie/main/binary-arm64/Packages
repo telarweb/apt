@@ -1,14 +1,14 @@
 Package: telarweb
-Version: 0.1.8-1
+Version: 0.1.9-1
 Architecture: arm64
 Maintainer: TelarWeb Project <noreply@github.com>
 Depends: python3 (>= 3.11), python3-venv, bluetooth, bluez, bluez-tools, python3-dbus, dbus, network-manager, iw, systemd (>= 232), avahi-daemon
 Recommends: pi-hole
-Filename: pool/main/t/telarweb/telarweb_0.1.8-1_arm64.deb
-Size: 19776
-MD5sum: 48548789048039bb2c87b540ed486f6c
-SHA1: a0e6a779a2bde916fcefacf38a5929dba9aea2e0
-SHA256: d448b42d59bffb6e2235a1ee4e72c6c3808c323f5c90aebfc501116ca4b5096e
+Filename: pool/main/t/telarweb/telarweb_0.1.9-1_arm64.deb
+Size: 20696
+MD5sum: a9af19276caffbeb336367223bd9ba8e
+SHA1: 703a2ca00e197c09e1080d4ae892f617c7273d17
+SHA256: 204c4cfce87a87ccaaa8d56337132bd11d75fbd6deb6d67cfa63fff414044ab7
 Section: net
 Priority: optional
 Homepage: https://github.com/flodek/telaweb-apt
@@ -28,16 +28,16 @@ Description: Raspberry Pi WiFi provisioning via BLE
  and monitor access is not available.
 
 Package: telarweb-pihole-companion
-Version: 0.1.8-1
+Version: 0.1.9-1
 Architecture: all
 Maintainer: TelarWeb Project <noreply@github.com>
 Depends: telarweb, python3 (>= 3.11), python3-flask (>= 3.0), python3-requests (>= 2.32), python3-dotenv (>= 1.0), python3-apscheduler (>= 3.10), python3-tz, python3-tzlocal
 Recommends: pi-hole
-Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.8-1_all.deb
-Size: 27816
-MD5sum: c25b31471d7846881c3d2bd4fddc6b4c
-SHA1: 12e9d4c760c9d68a28c7cc8ae04be17ae5796338
-SHA256: 480967fbba79980b46892194b82d012cb71a08e5204be0949fef0ff63f91df94
+Filename: pool/main/t/telarweb/telarweb-pihole-companion_0.1.9-1_all.deb
+Size: 27804
+MD5sum: e75cbc3bf52e40a5f4ecbe10f16c50a6
+SHA1: c99c1470869a27c3fa71f7e0a8479773fe92b17a
+SHA256: 8b4527342b5593603f28d0f7c8f8d434806de7b89aeeadcd100cfa4d07fa6afd
 Section: net
 Priority: optional
 Homepage: https://github.com/flodek/telaweb-apt

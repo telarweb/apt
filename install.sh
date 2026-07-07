@@ -44,9 +44,11 @@ fi
 
 echo "[1/4] Installing GPG key..."
 
-# Download and install GPG public key
+# Download and install GPG public key.
+# --yes: overwrite an existing keyring — without it a re-run of this installer
+# fails (or hangs waiting for confirmation) because the file already exists.
 if wget -qO - "${REPO_URL}/telarweb-archive-keyring.asc" | \
-   gpg --dearmor -o "${KEYRING_PATH}"; then
+   gpg --dearmor --yes -o "${KEYRING_PATH}"; then
     echo "  ✓ GPG key installed to ${KEYRING_PATH}"
 else
     echo "  ✗ Failed to download or install GPG key"
